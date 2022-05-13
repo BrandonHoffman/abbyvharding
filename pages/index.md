@@ -1,0 +1,25 @@
+---
+title: "@abbyvharding"
+image: "images/header.jpeg"
+date: "05-12-2013"
+socials:
+  - name: "Portfolio"
+    icon: "bi-brush"
+    link: "https://www.abbyvharding.com/"
+  - name: "Instagram"
+    icon: "bi-instagram"
+    link: "https://www.instagram.com/abbyvharding/"
+  - name: "Twitter"
+    icon: "bi-twitter"
+    link: "https://twitter.com/abbyvharding"
+  - name: "LinkedIn"
+    icon: "bi-linkedin"
+    link: "https://www.linkedin.com/in/abbyvharding/"
+footers:
+  - icon: "bi-instagram"
+    link: "https://www.instagram.com/abbyvharding/"
+  - icon: "bi-twitter"
+    link: "https://twitter.com/abbyvharding"
+  - icon: "bi-envelope"
+    link: "mailto:abbyvharding@gmail.com"
+---

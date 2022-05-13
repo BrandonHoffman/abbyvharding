@@ -1,0 +1,37 @@
+body {
+	background: linear-gradient(-45deg, #e73c7e, #23a6d5, #47BEC4);
+	background-size: 400% 400%;
+	animation: gradient 30s ease infinite;
+	height: 100vh;
+        font-size: 1.1em;
+}
+
+.btn-light {
+    border: 2px solid #f8f9fa;
+}
+
+.btn-light:hover {
+    background: transparent;
+    color: #f8f9fa;
+}
+
+header {
+    margin-bottom: 32px;
+}
+
+html
+{
+    font-size: 1.1em;
+}
+
+@keyframes gradient {
+	0% {
+		background-position: 0% 50%;
+	}
+	50% {
+		background-position: 100% 50%;
+	}
+	100% {
+		background-position: 0% 50%;
+	}
+}
